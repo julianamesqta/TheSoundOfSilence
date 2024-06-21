@@ -34,6 +34,7 @@ struct DialogueScene: View {
                     .font(Font.custom("PressStart2P-Regular", size: 10))
                     .foregroundColor(.white)
                     .lineSpacing(8)
+                
                     .padding(.leading, 16)
                     .padding(.top, 16)
                     .frame(maxWidth: .infinity, alignment: .leading)
